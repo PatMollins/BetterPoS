@@ -1,2 +1,2 @@
-# PoSPoS
+# BetterPoS
 Point of service system
